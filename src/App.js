@@ -30,11 +30,11 @@ const onTextChange =(event) =>{
     <Container>
       <Header>
         <AppName>
-          <MovieImage src="/movie-icon.svg" />
+          <MovieImage src="movie/movie-icon.svg" />
            Movie App
           </AppName>
           <SearchBox>
-              <SearchIcon src='/search-icon.svg' />
+              <SearchIcon src='movie/search-icon.svg' />
               <SearchInput 
               placeholder='Search Movie' 
               value={searchQuery}

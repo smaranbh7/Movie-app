@@ -1,3 +1,10 @@
+#Demo - Deployed over Github Pages
+https://smaranbh7.github.io/Movie-app/
+
+#APIs Used
+OMDb API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
